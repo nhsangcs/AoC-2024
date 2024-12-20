@@ -1,0 +1,4 @@
+prog
+*.txt
+test.cpp
+.DS_Store
